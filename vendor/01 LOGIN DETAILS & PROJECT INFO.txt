@@ -1,0 +1,20 @@
+
+**Database Name: attendancemsystem**
+
+**Developed by Gourango Mandal & Sandip Kumar**
+
+**Recommended PHP Version 5.6 and Newer**
+
+
+**Admin Login Details**
+
+Email   : admin@mail.com
+Password: Password@123
+
+
+**Teacher Login Details**
+
+Email   : sandip@mail.com
+Password: pass123
+
+**Default password for teacher's account: pass123**
